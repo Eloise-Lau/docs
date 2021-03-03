@@ -974,7 +974,7 @@ zh-cn:
   ### insurance
   websocketinsurance: 保险基金
   websocket_para_insurance: 获取保险基金数据.
-  websocket_aside_insurance: 注意<code>wallet_balance</code>的单位为<code>聪</code>, 1聪等于一百万分之一个比特币.
+  websocket_aside_insurance: 注意<code>wallet_balance</code>的单位为<code>聪</code>, 1聪等于一亿分之一个比特币.
   ### instrument_info
   websocketinstrumentInfo: 行情
   websocket_para_instrumentInfo: 获取合约的最新数据.
